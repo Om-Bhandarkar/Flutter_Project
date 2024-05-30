@@ -29,7 +29,7 @@ class SingleModelclass {
 class _QuizAppState extends State<QuizApp> {
   List allquestions = [
     const SingleModelclass(
-      questions: "Who is the founder of ?",
+      questions: "Who is the founder of Flutter?",
       options: ["Sam Altman", "Steve Ballmer", "David Filo", "Steve Chen"],
       answerIndex: 0,
     ),
@@ -109,7 +109,7 @@ class _QuizAppState extends State<QuizApp> {
             ),
           ),
           centerTitle: true,
-          backgroundColor: Color.fromARGB(255, 156, 0, 184),
+          backgroundColor: const Color.fromARGB(255, 156, 0, 184),
         ),
         body: Column(
           children: [
@@ -180,7 +180,7 @@ class _QuizAppState extends State<QuizApp> {
               height: 20,
             ),
             SizedBox(
-               width: 350,
+                width: 350,
                 height: 60,
                 child: ElevatedButton(
                     style: ButtonStyle(
@@ -263,7 +263,7 @@ class _QuizAppState extends State<QuizApp> {
       );
     } else {
       return Scaffold(
-          backgroundColor: const Color.fromARGB(255, 238, 207, 235),
+          backgroundColor: const Color.fromARGB(255, 234, 187, 255),
           appBar: AppBar(
             title: const Text(
               "Quiz App",
@@ -283,7 +283,7 @@ class _QuizAppState extends State<QuizApp> {
                 height: 20,
               ),
               Image.network(
-                "https://img.freepik.com/free-psd/winner-background-rendering_23-2150702443.jpg",
+                'https://cdn-icons-png.flaticon.com/256/8289/8289880.png',
                 width: 800,
                 height: 300,
               ),
