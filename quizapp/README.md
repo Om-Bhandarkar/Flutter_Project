@@ -1,16 +1,7 @@
-# quizapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (198)](https://github.com/Om-Bhandarkar/Flutter_Project/assets/99426684/671b8021-753d-4573-98e9-adc82a1ac223)
+![Screenshot (199)](https://github.com/Om-Bhandarkar/Flutter_Project/assets/99426684/56877347-cd5e-4b56-9ec0-ade41c556277)
+![Screenshot (200)](https://github.com/Om-Bhandarkar/Flutter_Project/assets/99426684/b0763022-91ab-47ee-babb-7ed37bc009b7)
+![Screenshot (201)](https://github.com/Om-Bhandarkar/Flutter_Project/assets/99426684/e88694ff-2ba6-4bf6-b348-7ba40410616d)
+![Screenshot (202)](https://github.com/Om-Bhandarkar/Flutter_Project/assets/99426684/564860f7-d348-4260-8cff-6a7b4f833b60)
+![Screenshot (203)](https://github.com/Om-Bhandarkar/Flutter_Project/assets/99426684/2f57cf1d-a379-4260-9a5d-e0072f511203)
+![Screenshot (204)](https://github.com/Om-Bhandarkar/Flutter_Project/assets/99426684/a11319c9-62c7-4fb4-8c96-d1af160d2bc4)
